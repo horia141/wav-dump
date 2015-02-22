@@ -1,2 +1,2 @@
 wavdump:
-	gcc -O3 -o wavdump -lm wavdump.c
+	gcc -O3 wavdump.c -o wavdump -lm
